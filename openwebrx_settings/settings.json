@@ -1,0 +1,151 @@
+{
+    "version": 7,
+    "wfm_deemphasis_tau": 5e-05,
+    "waterfall_auto_min_range": 50,
+    "fft_size": 4096,
+    "aprs_callsign": "N0CALL",
+    "wsjt_decoding_depths": {
+        "jt65": 1
+    },
+    "q65_enabled_combinations": [
+        "A30",
+        "E120",
+        "C60"
+    ],
+    "map_position_retention_time": 7200,
+    "receiver_gps": {
+        "lat": 48.8535653336379,
+        "lon": 2.3480958140602
+    },
+    "aprs_igate_password": "",
+    "fst4_enabled_intervals": [
+        15,
+        30
+    ],
+    "aprs_igate_symbol": "R&",
+    "aprs_igate_server": "euro.aprs2.net",
+    "squelch_auto_margin": 10,
+    "services_enabled": false,
+    "audio_compression": "adpcm",
+    "tuning_precision": 2,
+    "aprs_igate_enabled": false,
+    "waterfall_auto_levels": {
+        "min": 3.0,
+        "max": 10.0
+    },
+    "services_decoders": [
+        "ft8",
+        "ft4",
+        "wspr",
+        "packet"
+    ],
+    "digital_voice_dmr_id_lookup": true,
+    "aprs_igate_beacon": false,
+    "receiver_asl": 200,
+    "max_clients": 4,
+    "receiver_admin": "example@example.com",
+    "sdrs": {
+        "rtlsdr": {
+            "name": "RTLSDR",
+            "type": "rtl_sdr",
+            "ppm": 0,
+            "profiles": {
+                "PMR_446": {
+                    "name": "PMR 446 MHz",
+                    "center_freq": 446107000,
+                    "rf_gain": 29.7,
+                    "samp_rate": 2400000,
+                    "start_freq": 446006250,
+                    "start_mod": "nfm"
+                },
+                "Pager_466": {
+                    "name": "Pager 466 MHz",
+                    "center_freq": 466100000,
+                    "rf_gain": "auto",
+                    "samp_rate": 2400000,
+                    "start_freq": 466175000,
+                    "start_mod": "pocsag"
+                },
+                "Pager_87": {
+                    "name": "Pager 87 MHz",
+                    "center_freq": 87000000,
+                    "rf_gain": 29.7,
+                    "samp_rate": 2400000,
+                    "start_freq": 87390000,
+                    "start_mod": "pocsag"
+                },
+                "CB": {
+                    "name": "CB 27 MHz",
+                    "center_freq": 27200000,
+                    "rf_gain": 29.7,
+                    "samp_rate": 2400000,
+                    "start_freq": 27065000,
+                    "start_mod": "nfm"
+                },
+                "a6b886f9-db26-4df6-a618-f14805a60ca1": {
+                    "name": "FM 107 MHz",
+                    "center_freq": 107000000,
+                    "samp_rate": 2400000,
+                    "start_freq": 106600000,
+                    "start_mod": "wfm"
+                },
+                "e61dab02-fdba-4fdf-a71f-7e2598c852b3": {
+                    "name": "Pager 173 MHz",
+                    "center_freq": 173000000,
+                    "samp_rate": 2400000,
+                    "start_freq": 173512500,
+                    "start_mod": "pocsag"
+                },
+                "b708c652-c2c3-46a2-9b0e-f0e448a98ed7": {
+                    "name": "LPD 434 MHz",
+                    "center_freq": 434000000,
+                    "samp_rate": 2400000,
+                    "start_freq": 433075000,
+                    "start_mod": "nfm"
+                },
+                "918a5677-019a-4032-840f-cfac9c60f4cf": {
+                    "name": "SRD 860 MHz",
+                    "center_freq": 869000000,
+                    "samp_rate": 2400000,
+                    "start_freq": 868006250,
+                    "start_mod": "nfm"
+                }
+            }
+        }
+    },
+    "fst4w_enabled_intervals": [
+        120,
+        300
+    ],
+    "photo_desc": "",
+    "google_maps_api_key": "",
+    "photo_title": "",
+    "waterfall_scheme": "GoogleTurboWaterfall",
+    "aprs_igate_comment": "OpenWebRX APRS gateway",
+    "pskreporter_enabled": false,
+    "receiver_location": "Paris, France",
+    "waterfall_levels": {
+        "min": -88.0,
+        "max": -20.0
+    },
+    "wsjt_decoding_depth": 3,
+    "receiver_name": "U03",
+    "js8_enabled_profiles": [
+        "normal",
+        "slow"
+    ],
+    "pskreporter_callsign": "N0CALL",
+    "wsprnet_callsign": "N0CALL",
+    "digimodes_fft_size": 2048,
+    "decoding_queue_workers": 2,
+    "js8_decoding_depth": 3,
+    "decoding_queue_length": 10,
+    "digital_voice_unvoiced_quality": 1,
+    "wsprnet_enabled": false,
+    "fft_fps": 9,
+    "fft_compression": "adpcm",
+    "fft_voverlap_factor": 0.3,
+    "receiver_keys": [
+        ""
+    ]
+}

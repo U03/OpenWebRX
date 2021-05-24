@@ -1,0 +1,16 @@
+version: "3.6"
+services:
+    openwebrx:
+        image: jketterl/openwebrx:1.0.0
+        container_name: openwebrx
+        restart: always
+        environment:
+            OPENWEBRX_ADMIN_USER: MasterOfPuppets
+            OPENWEBRX_ADMIN_PASSWORD: MaitreDuMonde        
+        volumes:
+            - ./openwebrx_settings:/var/lib/openwebrx
+        devices:
+            - /dev/bus/usb
+        ports:
+            - 8073:8073
+        tmpfs: /tmp/openwebrx

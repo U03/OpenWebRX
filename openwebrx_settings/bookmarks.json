@@ -1,0 +1,1297 @@
+[
+    {
+        "name": "C_01",
+        "frequency": 869412500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_02",
+        "frequency": 869437500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_03",
+        "frequency": 869462500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_04",
+        "frequency": 869487500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_05",
+        "frequency": 869512500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_06",
+        "frequency": 869537500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_07",
+        "frequency": 869562500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_08",
+        "frequency": 869587500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_09",
+        "frequency": 869612500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C_10",
+        "frequency": 869637500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C2_1",
+        "frequency": 869312500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C2_2",
+        "frequency": 869337500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C2_3",
+        "frequency": 869362500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "C2_4",
+        "frequency": 869387500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_01",
+        "frequency": 869706250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_02",
+        "frequency": 869718750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_03",
+        "frequency": 869731250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_04",
+        "frequency": 869743750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_05",
+        "frequency": 869756250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_06",
+        "frequency": 869768750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_07",
+        "frequency": 869781250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_08",
+        "frequency": 869793750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_09",
+        "frequency": 869806250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_10",
+        "frequency": 869818750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_11",
+        "frequency": 869831250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_12",
+        "frequency": 869843750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_13",
+        "frequency": 869856250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_14",
+        "frequency": 869868750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_15",
+        "frequency": 869881250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_16",
+        "frequency": 869893750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_17",
+        "frequency": 869906250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_18",
+        "frequency": 869918750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_19",
+        "frequency": 869931250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_20",
+        "frequency": 869943750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_21",
+        "frequency": 869956250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_22",
+        "frequency": 869968750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_23",
+        "frequency": 869981250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "D_24",
+        "frequency": 869993750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_01",
+        "frequency": 868706250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_02",
+        "frequency": 868718750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_03",
+        "frequency": 868731250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_04",
+        "frequency": 868743750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_05",
+        "frequency": 868756250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_06",
+        "frequency": 868768750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_07",
+        "frequency": 868781250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_08",
+        "frequency": 868793750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_09",
+        "frequency": 868806250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_10",
+        "frequency": 868818750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_11",
+        "frequency": 868831250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_12",
+        "frequency": 868843750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_13",
+        "frequency": 868856250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_14",
+        "frequency": 868868750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_15",
+        "frequency": 868881250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_16",
+        "frequency": 868893750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_17",
+        "frequency": 868906250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_18",
+        "frequency": 868918750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_19",
+        "frequency": 868931250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_20",
+        "frequency": 868943750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_21",
+        "frequency": 868956250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_22",
+        "frequency": 868968750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_23",
+        "frequency": 868981250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_24",
+        "frequency": 868993750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_25",
+        "frequency": 869006250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_26",
+        "frequency": 869018750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_27",
+        "frequency": 869031250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_28",
+        "frequency": 869043750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_29",
+        "frequency": 869056250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_30",
+        "frequency": 869068750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_31",
+        "frequency": 869081250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_32",
+        "frequency": 869093750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_33",
+        "frequency": 869106250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_34",
+        "frequency": 869118750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_35",
+        "frequency": 869131250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_36",
+        "frequency": 869143750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_37",
+        "frequency": 869156250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_38",
+        "frequency": 869168750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_39",
+        "frequency": 869181250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "B_40",
+        "frequency": 869193750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_01",
+        "frequency": 868006250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_02",
+        "frequency": 868018750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_03",
+        "frequency": 868031250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_04",
+        "frequency": 868043750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_05",
+        "frequency": 868056250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_06",
+        "frequency": 868068750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_07",
+        "frequency": 868081250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_08",
+        "frequency": 868093750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_09",
+        "frequency": 868106250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_10",
+        "frequency": 868118750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_11",
+        "frequency": 868131250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_12",
+        "frequency": 868143750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_13",
+        "frequency": 868156250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_14",
+        "frequency": 868168750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_15",
+        "frequency": 868181250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_16",
+        "frequency": 868193750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_17",
+        "frequency": 868206250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_18",
+        "frequency": 868218750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_19",
+        "frequency": 868231250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_20",
+        "frequency": 868243750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_21",
+        "frequency": 868256250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_22",
+        "frequency": 868268750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_23",
+        "frequency": 868281250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_24",
+        "frequency": 868293750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_25",
+        "frequency": 868306250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_26",
+        "frequency": 868318750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_27",
+        "frequency": 868331250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_28",
+        "frequency": 868343750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_29",
+        "frequency": 868356250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_30",
+        "frequency": 868368750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_31",
+        "frequency": 868381250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_32",
+        "frequency": 868393750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_33",
+        "frequency": 868406250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_34",
+        "frequency": 868418750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_35",
+        "frequency": 868431250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_36",
+        "frequency": 868443750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_37",
+        "frequency": 868456250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_38",
+        "frequency": 868468750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_39",
+        "frequency": 868481250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_40",
+        "frequency": 868493750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_41",
+        "frequency": 868506250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_42",
+        "frequency": 868518750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_43",
+        "frequency": 868531250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_44",
+        "frequency": 868543750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_45",
+        "frequency": 868556250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_46",
+        "frequency": 868568750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_47",
+        "frequency": 868581250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "A_48",
+        "frequency": 868593750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_01",
+        "frequency": 433075000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_02",
+        "frequency": 433100000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_03",
+        "frequency": 433125000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_04",
+        "frequency": 433150000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_05",
+        "frequency": 433175000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_06",
+        "frequency": 433200000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_07",
+        "frequency": 433225000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_08",
+        "frequency": 433250000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_09",
+        "frequency": 433275000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_10",
+        "frequency": 433300000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_11",
+        "frequency": 433325000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_12",
+        "frequency": 433350000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_13",
+        "frequency": 433375000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_14",
+        "frequency": 433400000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_15",
+        "frequency": 433425000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_16",
+        "frequency": 433450000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_17",
+        "frequency": 433475000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_18",
+        "frequency": 433500000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_19",
+        "frequency": 433525000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_20",
+        "frequency": 433550000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_21",
+        "frequency": 433575000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_22",
+        "frequency": 433600000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_23",
+        "frequency": 433625000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_24",
+        "frequency": 433650000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_25",
+        "frequency": 433675000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_26",
+        "frequency": 433700000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_27",
+        "frequency": 433725000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_28",
+        "frequency": 433750000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_29",
+        "frequency": 433775000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_30",
+        "frequency": 433800000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_31",
+        "frequency": 433825000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_32",
+        "frequency": 433850000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_33",
+        "frequency": 433875000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_34",
+        "frequency": 433900000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_35",
+        "frequency": 433925000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_36",
+        "frequency": 433950000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_37",
+        "frequency": 433975000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_38",
+        "frequency": 434000000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_39",
+        "frequency": 434025000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_40",
+        "frequency": 434050000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_41",
+        "frequency": 434075000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_42",
+        "frequency": 434100000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_43",
+        "frequency": 434125000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_44",
+        "frequency": 434150000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_45",
+        "frequency": 434175000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_46",
+        "frequency": 434200000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_47",
+        "frequency": 434225000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_48",
+        "frequency": 434250000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_49",
+        "frequency": 434275000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_50",
+        "frequency": 434300000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_51",
+        "frequency": 434325000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_52",
+        "frequency": 434350000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_53",
+        "frequency": 434375000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_54",
+        "frequency": 434400000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_55",
+        "frequency": 434425000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_56",
+        "frequency": 434450000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_57",
+        "frequency": 434475000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_58",
+        "frequency": 434500000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_59",
+        "frequency": 434525000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_60",
+        "frequency": 434550000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_61",
+        "frequency": 434575000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_62",
+        "frequency": 434600000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_63",
+        "frequency": 434625000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_64",
+        "frequency": 434650000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_65",
+        "frequency": 434675000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_66",
+        "frequency": 434700000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_67",
+        "frequency": 434725000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_68",
+        "frequency": 434750000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "LDP_69",
+        "frequency": 434775000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "466_01",
+        "frequency": 466025000,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "466_02",
+        "frequency": 466050000,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "466_03",
+        "frequency": 466075000,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "466_07",
+        "frequency": 466175000,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "466_08",
+        "frequency": 466206250,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "87_01",
+        "frequency": 87390000,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "446_01",
+        "frequency": 446006250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_02",
+        "frequency": 446018750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_03",
+        "frequency": 446031250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_04",
+        "frequency": 446043750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_05",
+        "frequency": 446056250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_06",
+        "frequency": 446068750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_07",
+        "frequency": 446081250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_08",
+        "frequency": 446093750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_09",
+        "frequency": 446106250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_10",
+        "frequency": 446118750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_11",
+        "frequency": 446131250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_12",
+        "frequency": 446143750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_13",
+        "frequency": 446156250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_14",
+        "frequency": 446168750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_15",
+        "frequency": 446181250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "446_16",
+        "frequency": 446193750,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_01",
+        "frequency": 26965000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_02",
+        "frequency": 26975000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_03",
+        "frequency": 26985000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_04",
+        "frequency": 27005000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_05",
+        "frequency": 27015000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_06",
+        "frequency": 27025000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_07",
+        "frequency": 27035000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_08",
+        "frequency": 27055000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_09",
+        "frequency": 27065000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_10",
+        "frequency": 27075000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_11",
+        "frequency": 27085000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_12",
+        "frequency": 27105000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_13",
+        "frequency": 27115000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_14",
+        "frequency": 27125000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_15",
+        "frequency": 27135000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_16",
+        "frequency": 27155000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_17",
+        "frequency": 27165000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_18",
+        "frequency": 27175000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_19",
+        "frequency": 27185000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_20",
+        "frequency": 27205000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_21",
+        "frequency": 27215000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_22",
+        "frequency": 27225000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_23",
+        "frequency": 27255000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_24",
+        "frequency": 27235000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_25",
+        "frequency": 27245000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_26",
+        "frequency": 27265000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_27",
+        "frequency": 27275000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_28",
+        "frequency": 27285000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_29",
+        "frequency": 27295000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_30",
+        "frequency": 27305000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_31",
+        "frequency": 27315000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_32",
+        "frequency": 27325000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_33",
+        "frequency": 27335000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_34",
+        "frequency": 27345000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_35",
+        "frequency": 27355000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_36",
+        "frequency": 27365000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_37",
+        "frequency": 27375000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_38",
+        "frequency": 27385000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_39",
+        "frequency": 27395000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "CB_40",
+        "frequency": 27405000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "Pompiers_173",
+        "frequency": 173512500,
+        "modulation": "pocsag"
+    },
+    {
+        "name": "85_01",
+        "frequency": 85975000,
+        "modulation": "pocsag"
+    }
+]
